@@ -1,4 +1,4 @@
-# 🌐 Threat Orbit - Nation-State APT Intelligence Globe
+# 🌐 Threat Orbit — Nation-State APT Intelligence Globe
 
 > An interactive 3D globe mapping nation-state threat actor operations, attack arcs, targets, and full intelligence profiles. Single HTML file. No server. No dependencies to install.
 
