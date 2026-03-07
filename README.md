@@ -4,7 +4,7 @@
 
 ![ThreatOrbit Preview](https://img.shields.io/badge/APT%20Groups-40-blue?style=flat-square) ![Last Updated](https://img.shields.io/badge/Last%20Updated-2025-green?style=flat-square) ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square) ![Open Source](https://img.shields.io/badge/Open%20Source-OSINT-orange?style=flat-square)
 
-**[threat-orbit.netlify.app](https://threat-orbit.netlify.app)** · Built by [@a2awais](https://github.com/a2awais)
+**[Threat Orbit](https://a2awais.github.io/ThreatOrbit)** · Built by [@a2awais](https://github.com/a2awais)
 ---
 
 ## Motivation
