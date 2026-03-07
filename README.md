@@ -55,20 +55,6 @@ Everything runs in a single browser tab. No API keys, no backend, no npm install
 
 ---
 
-## Quick Start
-
-```bash
-# Clone
-git clone https://github.com/a2awais/threatorbit.git
-
-# Open — that's it
-open index.html
-```
-
-Or download `index.html` and open it directly in any modern browser. Chrome, Firefox, and Edge all work. Safari works with hardware acceleration enabled.
-
----
-
 ## How to Add or Edit Groups
 
 The entire dataset lives in one clearly labelled block at the top of the file. No build step required.
@@ -107,9 +93,6 @@ const APT_GROUPS = [
   },
   // ...
 ```
-
-**To change accent colours** — find `:root {` near the top of `<style>` and edit the CSS variables.
-
 ---
 
 ## Data Sources
@@ -130,7 +113,7 @@ All intelligence is drawn exclusively from public, authoritative sources:
 
 ## Companion Tool
 
-For a deeper analytical workflow — cluster graph, Diamond Model, TTP heatmap, and sector pivot — see **[ThreatNexus](../threat-nexus/README.md)**, the analyst workbench companion to this globe.
+For a deeper analytical workflow — cluster graph, Diamond Model, TTP heatmap, and sector pivot — see **[ThreatNexus](https://a2awais.github.io/ThreatNexus/)**, the analyst workbench companion to this globe.
 
 ---
 
@@ -155,7 +138,3 @@ All data is compiled from **open-source, publicly available sources only**. This
 ## License
 
 MIT — free to use, fork, and redistribute with attribution.
-
----
-
-*Last data review: March 2025 · Maintained as a community threat intelligence reference*
