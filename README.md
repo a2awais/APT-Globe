@@ -1,4 +1,4 @@
-# 🌐 ThreatOrbit — Nation-State APT Intelligence Globe
+# 🌐 Threat Orbit - Nation-State APT Intelligence Globe
 
 > An interactive 3D globe mapping nation-state threat actor operations, attack arcs, targets, and full intelligence profiles. Single HTML file. No server. No dependencies to install.
 
@@ -9,7 +9,7 @@
 
 ## Motivation
 
-If you work in threat intelligence or threat hunting, you know the drill — APT groups spread across dozens of browser tabs, spreadsheets, and bookmarked PDFs that go stale the moment you close them. I built ThreatOrbit to fix that for myself, and decided to open it for the community.
+If you work in threat intelligence or threat hunting, you know the drill. APT groups spread across dozens of browser tabs, spreadsheets, and bookmarked PDFs that go stale the moment you close them. I built ThreatOrbit to fix that for myself, and decided to open it for the community.
 It renders **40 nation-state APT groups across 12 countries** on an interactive 3D globe with directed attack arcs, motivation filtering, and full group dossiers.
 
 Everything runs in a single browser tab. No API keys, no backend, no npm install.
@@ -50,7 +50,7 @@ Everything runs in a single browser tab. No API keys, no backend, no npm install
 - MITRE ATT&CK TTPs with tactic colour-coding and direct links to `attack.mitre.org`
 - Malware and tool inventory with type and platform
 - CVE table with CVSS scores, severity pills, and NVD links
-- Government advisories — CISA, NSA, DoJ, FBI, Five Eyes
+- Government advisories - CISA, NSA, DoJ, FBI, Five Eyes
 - Known indicted/sanctioned members with status badges
 
 ---
@@ -113,7 +113,7 @@ All intelligence is drawn exclusively from public, authoritative sources:
 
 ## Companion Tool
 
-For a deeper analytical workflow — cluster graph, Diamond Model, TTP heatmap, and sector pivot — see **[ThreatNexus](https://a2awais.github.io/ThreatNexus/)**, the analyst workbench companion to this globe.
+For a deeper analytical workflow, cluster graph, Diamond Model, TTP heatmap, and sector pivot - see **[ThreatNexus](https://a2awais.github.io/ThreatNexus/)**, the analyst workbench companion to this globe.
 
 ---
 
