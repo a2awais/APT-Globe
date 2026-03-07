@@ -8,7 +8,7 @@
 
 ---
 
-## Purpose
+## Motivation
 
 If you work in threat intelligence or threat hunting, you know the drill. APT groups spread across dozens of browser tabs, spreadsheets, and bookmarked PDFs that go stale the moment you close them. I built ThreatOrbit to fix that for myself, and decided to open it for the community. It brings 40 nation-state threat actors into a single, living reference. No spreadsheet, No tab switching, No copy-pasting CVEs into Google. Just open the page, find the group, get the full picture. Built for the threat intelligence and hunting community.
 
